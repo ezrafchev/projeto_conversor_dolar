@@ -66,11 +66,11 @@
   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
   ```
 
-  1. Abra o navegador e acesse o endereço `http://127.0.0.1:5000/` para ver o site em funcionamento.
+  * Abra o navegador e acesse o endereço `http://127.0.0.1:5000/` para ver o site em funcionamento.
 
 
 
 
 
-Em caso de dúvidas, me contacte e por favor, fique à vontade para melhorar e dar sugestões :smiley:
+* * * Em caso de dúvidas, me contacte. Fique à vontade para melhorar e dar sugestões :smiley:
 
