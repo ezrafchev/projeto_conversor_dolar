@@ -3,6 +3,12 @@ import requests
 
 app = Flask(__name__)
 
+@app.after_request
+def add_header(response):
+    response.headers['Vary'] = 'Cookie'
+    return response
+
+
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
